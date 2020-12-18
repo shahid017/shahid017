@@ -1,5 +1,5 @@
 ### Hi there 👋
-Data Scientist, ML and NLP engineer, work as Data Scientist in Five Rivers Technologies. I mainly use Python to perform these tasks.
+Data Scientist, ML and NLP engineer, working as Data Scientist in Five Rivers Technologies. I mainly use Python to perform these tasks.
 
 🔭 To help my fellow Data Scientists, I have written a simple Python package SimpleEDA for Exploratory Data Analysis.
 
