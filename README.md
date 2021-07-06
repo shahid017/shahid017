@@ -1,7 +1,7 @@
 ### Hi there 👋
 Data Scientist, ML and NLP engineer, working as Data Scientist in Five Rivers Technologies. I mainly use Python to perform these tasks.
 
-🔭 To help my fellow Data Scientists, I have written a simple Python package SimpleEDA for Exploratory Data Analysis.
+🔭 To help my fellow Data Scientists, I have written a simple Python package SimpleEDA for Exploratory Data Analysis. I have written NlpHub which can perform basic NLP tasks easily.
 
 🌱 In my ongoing learning quest, I am learning Django, Julia, and R. 
 
