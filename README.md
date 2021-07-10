@@ -8,6 +8,14 @@ Data Scientist, ML and NLP engineer, working as Data Scientist in Five Rivers Te
 💬 You can ask for help about Data Science, ML and NLP.
 
 📫 If you have any query, reach me at chshahidhamdam@gmail.com
+
+www.muhammadshahid.techsandooq.com
+
+https://www.linkedin.com/in/shahidsharif1/
+
+https://www.facebook.com/shahid.hamdam/
+
+
 <!--
 **shahid017/shahid017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
