@@ -16,6 +16,8 @@ https://www.linkedin.com/in/shahidsharif1/
 https://www.facebook.com/shahid.hamdam/
 
 
+
+![Shahid's Github Stats](https://github-readme-stats.vercel.app/api?username=shahid017&count_private=true&show_icons=true)
 <!--
 **shahid017/shahid017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
