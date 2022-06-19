@@ -10,7 +10,7 @@ Data Scientist, ML and NLP engineer, working as Data Scientist in Five Rivers Te
 📫 If you have any query, reach me at chshahidhamdam@gmail.com
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shahid017/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/shahidsharif1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:chshahidhamdam@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
 <a href="https://api.whatsapp.com/send?phone=+923336242037"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
